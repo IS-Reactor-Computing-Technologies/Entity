@@ -2,14 +2,16 @@
 # Reactor Computing Technologies
 
 ## Entity
-Entity Development
+Entity Development 
+Dominate Build
+Personal
 
 ### Contents
-- Born CPU
-- Mind Instruction Set
-- Brain Kernel
+- Arise CPU
+- Emerge Instruction Set
+- Delegate Kernel
 - Conscious Operating System
-- Guard Cyber Security
+- Sentinel Cyber Security
 - Synapse Cloud
 - Sentient Artificial Intelligence
 - Desire Host
